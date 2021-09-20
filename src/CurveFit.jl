@@ -1,6 +1,6 @@
 #=
 CurveFit:
-- Julia version: 1.6.1
+- Julia version: 1.6.2
 - Author: jeff
 - Date: 2021-05-08
 =#
